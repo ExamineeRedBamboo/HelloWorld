@@ -1,0 +1,8 @@
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/CMakeFiles/drivers.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/CMakeFiles/project.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/CMakeFiles/edit_cache.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/CMakeFiles/rebuild_cache.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/cmake/stm32cubemx/CMakeFiles/STM32_Drivers.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/cmake/stm32cubemx/CMakeFiles/USB_Device_Library.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/cmake/stm32cubemx/CMakeFiles/edit_cache.dir
+C:/Users/Redba/Desktop/code/HelloWorld/Task/build/Release/cmake/stm32cubemx/CMakeFiles/rebuild_cache.dir
