@@ -31,7 +31,7 @@
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
-
+#include "MotorControl.hpp"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -122,7 +122,7 @@ int main(void)
   MX_TIM1_Init();
   MX_UART7_Init();
   /* USER CODE BEGIN 2 */
-
+  MainInit();
   /* USER CODE END 2 */
 
   /* Infinite loop */

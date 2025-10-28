@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "hw_fdcan.hpp": "c",
+        "compare": "cpp",
+        "limits": "c"
+    }
+}
